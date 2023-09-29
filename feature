@@ -1,2 +1,2 @@
-commit 1
+conflict 1
 commit 3
